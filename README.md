@@ -19,3 +19,7 @@ specifically, this will involve:
 ![Screenshot (2)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/c374854d-7865-4cc3-9044-97811b53d103)
 ![Uploading Screenshot (4).png…]()
 ![Uploading Screenshot (3).png…]()
+
+
+# successfully cloning github repo
+![Screenshot (9)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/f2fb49fb-f870-4bcb-a205-10c0d19636c2)
