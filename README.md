@@ -1,7 +1,6 @@
 # FCA_Project
 FCA Project Documentation
-This project will involve concepts from all core training modules; more
-specifically, this will involve:
+This project involved the following technologies/skills:
 * Project Management
 * Python Fundamentals
 * Python Web Development 
@@ -11,15 +10,13 @@ specifically, this will involve:
 * Docker Containerisation
 * Nexus Repositories
 
-
-![Screenshot (7)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/eb79d09e-8615-4c9b-9bee-1e9015c6a79f)
-![Uploading Screenshot (6).png…]()
-![Uploading Screenshot (5).png…]()
-![Screenshot (1)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/7bf67491-b4a4-40a8-ae69-8c87c53876e9)
-![Screenshot (2)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/c374854d-7865-4cc3-9044-97811b53d103)
-![Uploading Screenshot (4).png…]()
-![Uploading Screenshot (3).png…]()
-
-
-# successfully cloning github repo
+1. Cloning github repo to Jenkins
 ![Screenshot (9)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/f2fb49fb-f870-4bcb-a205-10c0d19636c2)
+2. Using WSL to access Jenkins
+ ![Screenshot (4)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/bb54721a-e268-4619-aca2-6011218aa58a)
+3.Creating a docker image to run the python app
+ ![Screenshot (6)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/0c978ef5-7fe4-4b08-ba46-b044e35abf90)
+4. Using Bash to install Jenkins
+![Screenshot (8)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/f72c9d08-df5e-4681-8ca0-e374bc4246ef)
+5. Cloning GitHub repo to Jenkins using Windows shell execution
+![Screenshot (9)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/ae65d900-cba6-4c3d-8031-a6b486c1b25b)
