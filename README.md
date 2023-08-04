@@ -1,5 +1,15 @@
 # FCA_Project
 FCA Project Documentation
+This project will involve concepts from all core training modules; more
+specifically, this will involve:
+* Project Management
+* Python Fundamentals
+* Python Web Development 
+* Git
+* SQL Databases
+* Jenkins Pipeline Orchestration
+* Docker Containerisation
+* Nexus Repositories
 
 
 ![Screenshot (7)](https://github.com/Lucasta-B/FCA_Project/assets/141421659/eb79d09e-8615-4c9b-9bee-1e9015c6a79f)
